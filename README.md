@@ -1,0 +1,2 @@
+# Stress-Detection-For-Sensor-Data-Using-Machine-Learning
+"Stress Detection from Sensor Data using Machine Learning: A project leveraging physiological sensor data (e.g., heart rate, skin conductance) to detect stress levels. Includes preprocessing, feature extraction, model training, and evaluation. Implements algorithms like SVM Random Forest Deep Learning. Code and datasets provided for reproducibility
